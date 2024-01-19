@@ -36,14 +36,17 @@
 /*additional addons*/ /*(remove the both * to use)*/
 /*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
 
-
+/* Remove the phone indicator beside avatar */
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"]::after {
+  visibility: hidden;
+}
 
 /*Chillax Roots*/
 :root{
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://media.discordapp.net/attachments/1119474113401061396/1119474113690472469/image.png?ex=65b47d83&is=65a20883&hm=3067ca037a760d7b864eb8c3c7e3585bd82a50681bc776e9dfb4b46bf41508c6&=&format=webp&quality=lossless&width=1609&height=905');
+  --wallpaper: url('https://media.discordapp.net/attachments/1183609041650466846/1198033526747054302/image.png?ex=65bd6eab&is=65aaf9ab&hm=a81f6069b813fcc312fcacef74591776176bdafa8000840a068b33921ac68eaa&=&format=webp&quality=lossless&width=1609&height=905');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
@@ -155,9 +158,7 @@
 } 
 
 
-foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"]::after {
-  visibility: hidden;
-}
+
 
 /*Permissions*/
 /*
