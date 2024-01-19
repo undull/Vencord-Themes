@@ -155,7 +155,9 @@
 } 
 
 
-
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"]::after {
+  visibility: hidden;
+}
 
 /*Permissions*/
 /*
