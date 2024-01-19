@@ -37,7 +37,7 @@
 /*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
 
 /* Remove the phone indicator beside avatar */
-foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"]::after {
+foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
   visibility: hidden;
 }
 
