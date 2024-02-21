@@ -46,7 +46,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://media.discordapp.net/attachments/1183609041650466846/1198033526747054302/image.png?ex=65bd6eab&is=65aaf9ab&hm=a81f6069b813fcc312fcacef74591776176bdafa8000840a068b33921ac68eaa&=&format=webp&quality=lossless&width=1609&height=905');
+  --wallpaper: url('https://cdn.discordapp.com/attachments/1183609041650466846/1209805139154829312/image.png?ex=65e841d6&is=65d5ccd6&hm=d7da80c8987ed4595c1dfd599cb457b4c9a72a50dc89af910bc3a02eca1e7695&');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
@@ -75,7 +75,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 :root {
   --user-name: "King";
   --edited-message: " EDITED ✎ ";
-  --font-name: Poppins;
+  --font-name: Rowdies;
   --font-size: 13px;
 
   
