@@ -75,7 +75,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 :root {
   --user-name: "King";
   --edited-message: " EDITED ✎ ";
-  --font-name: Concert One;
+  --font-name: Poppins;
   --font-size: 14px;
 
   
