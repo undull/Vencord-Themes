@@ -73,7 +73,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "FAE";
+  --user-name: "Fae";
   --edited-message: " EDITED ✎ ";
   --font-name: Poppins;
   --font-size: 14px;
