@@ -46,7 +46,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://cdn.discordapp.com/attachments/1183609041650466846/1212466990103400559/image.png?ex=65f1f0e0&is=65df7be0&hm=9b788f95861c3977940f097a2533207efca242df9ad92760bba0c68a53e2f5cf&');
+  --wallpaper: url('https://cdn.discordapp.com/attachments/1183609041650466846/1212468031205417030/73a66c20eb854d92b374562ad56560a0.png?ex=65f1f1d9&is=65df7cd9&hm=2d58a633721a90cadb149f5425996744adac12984da29a9bd757783f7003b41c&');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
@@ -98,9 +98,9 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolor:	  93, 128, 168;	
+  --accentcolor:	  235, 221, 96;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #5d80a8;
+  --accentcolorV2:     #ebdd60;
      
      
 /*settings modal root*/
