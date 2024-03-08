@@ -46,7 +46,7 @@ foreignObject[mask*="url(#svg-mask-avatar-status-mobile-"]::after {
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://cdn.discordapp.com/attachments/1124444098376519792/1198100568971948132/cute_pusheen_cats.jpg?ex=65e2971b&is=65d0221b&hm=9f726786250a0e7b3bce47eb336fa8d103d1cdf2c9e41b54e9ceff3743641561&');
+  --wallpaper: url('https://cdn.discordapp.com/attachments/1124444098376519792/1198100568971948132/cute_pusheen_cats.jpg?ex=65f50c1b&is=65e2971b&hm=dfed2aff8d080d7271893574653470d488889fd6356bc33edb6589bb284e104d&');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
